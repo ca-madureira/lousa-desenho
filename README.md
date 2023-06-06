@@ -1,3 +1,4 @@
 # lousa-desenho
 
-![image](https://github.com/ca-madureira/lousa-desenho/assets/121184472/953018ab-2fd5-4ac3-96b2-143949e67284)
+![image](https://github.com/ca-madureira/lousa-desenho/assets/121184472/03bec487-de4b-4394-8f85-846b2f71d27c)
+
